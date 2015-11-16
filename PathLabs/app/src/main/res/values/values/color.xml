@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parror_color">#45DF87</color>
+    <color name="parror_color_dark">#1ad469</color>
+    <color name="white">#fff</color>
+    <color name="black"> #000</color>
+    <color name="nliveo_blue_colorPrimary">#0B79D1</color>
+    <color name="nliveo_blue_colorPrimaryDark">#1571BA</color>
+    <color name="nliveo_blue_alpha_colorPrimaryDark">#801976D2</color>
+    <color name="dark_blue"> #3D77C3</color>
+    <color name="blue">#2972d4</color>
+    <color name="cc_bg_color">#d8d8d8</color>
+    <color name="orange">#FE8805</color>
+    <color name="aquamarine">#1AD6A3</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#89000000</color>
+    <color name="dark_gray">#4f4f4f</color>
+    <color name="gray">#4e4e4e</color>
+    <color name="dark_blue_gray">#295E93</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="purple">#7a87b1</color>
+    <color name="yello_gray">#ededed</color>
+    <color name="light_gray">#9a9a9a</color>
+    <color name="blue_dark">#4a6ed3</color>
+    <color name="gray47">#787878</color>
+    <color name="gray48">#797979</color>
+    <color name="gray35">#595959</color>
+    <color name="gray72">#b8b8b8</color>
+    <color name="gray68">#e4e4e4</color>
+    <color name="gray80">#cccccc</color>
+    <color name="gray10"> #F5F5F5</color>
+
+
+
+</resources>

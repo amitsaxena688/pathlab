@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dr Path Labs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_map">map_view</string>
+    <string name="appointment_list_title">My Appointment for the Day</string>
+    <string name="fos_tracking_title">Fos Tracking via GPS</string>
+    <string name="dialog_update_status_title">Update Appointment Status</string>
+    <string name="no_internet_connection">No Internet Connection found</string>
+    <string name="dr_labs">Dr Lal PathLabs</string>
+
+</resources>

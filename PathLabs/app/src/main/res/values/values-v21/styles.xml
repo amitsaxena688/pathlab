@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="login_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlActivated">@color/blue_dark</item>
+        <item name="colorControlHighlight">@color/gray68</item>
+        <item name="android:colorControlNormal">@color/gray68</item>
+
+    </style>
+</resources>

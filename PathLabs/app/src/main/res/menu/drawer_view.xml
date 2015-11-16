@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_selector"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_myAddress"
+            android:icon="@drawable/map"
+            android:title="My Address" />
+        <item
+            android:id="@+id/nav_myReport"
+            android:icon="@drawable/reports_icon"
+            android:title="My Report" />
+        <item
+            android:id="@+id/nav_myCart"
+            android:icon="@drawable/cart_icon"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/notification_icon"
+            android:title="Notifications" />
+
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_callUs"
+                android:icon="@drawable/call_icon"
+                android:title="Call Us" />
+            <item
+                android:id="@+id/nav_rateUs"
+                android:icon="@drawable/rate_icon"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/feedback_icon"
+                android:title="Feed back" />
+            <item
+                android:id="@+id/nav_reportIssue"
+                android:icon="@drawable/issue_icon"
+                android:title="Report An issue" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_icon"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_aboutUs"
+                android:icon="@drawable/about_icon"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/log_out_selector"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
